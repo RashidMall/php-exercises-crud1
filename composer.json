@@ -1,0 +1,8 @@
+{
+    "name": "rashidmall/crud1",
+    "description": "basic crud exercise for simplon students",
+    "require": {},
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
